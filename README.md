@@ -7,3 +7,5 @@ Splits the scenes into train, validation and test sets.
 Builds a baseline that classifies each pixel with a simple heuristic, and score it on the test scenes.
 Trains a U-Net CNN (kernel/filter & pooling layers) on the training scenes and score it on the same test scenes, so the comparison is fair.
 Analyses where it fails, then build the frontend and Dockerise.
+
+This is a project to apply learning from ECMWF ML for Earth Systems Modelling online courses
